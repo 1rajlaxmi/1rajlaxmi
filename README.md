@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1rajlaxmi/profile-picture.png" alt="Profile Picture" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/132902555?s=400&u=7785e4025036065a46c970636f943e1b33541238&v=4" alt="Profile Picture" width="150" />
 </p>
 
 <p align="center">
